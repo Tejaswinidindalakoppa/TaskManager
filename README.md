@@ -70,11 +70,3 @@ Contributions are welcome. Suggested workflow:
 1. Fork the repo
 2. Create a feature branch
 3. Open a pull request with a clear description
-
-## License
-
-This project is available under the MIT License.
-
----
-
-If you'd like, I can add a short project demo GIF, CI scripts, or a `CONTRIBUTING.md`.
